@@ -21,6 +21,9 @@ Configuration:
 --------------
 If you want to change which media playback program you want to use, edit the variable PLAYER at the top of the script.
 
+NRK from other parts of Norway, other quality or encoding -  https://www.nrk.no/mp3aac/  
+Edit the url in the script. 
+
 Uninstallation:
 ---------------
 Delete the files you downloaded - duh...
